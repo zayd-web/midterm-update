@@ -1,0 +1,58 @@
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font: 16px Arial, sans-serif;
+}
+
+.structural {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: #333;
+    font-size: 36px;
+}
+
+h2 {
+    color: #555;
+    font-size: 24px;
+}
+
+main {
+    height: 70vh;
+}
+
+img {
+    border: 1px solid #000;
+    width: 90%;
+    height: 80%;
+}
+
+figure {
+    background-color: #f0f0f0;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+
+#figure1 {
+    float: left;
+}
+
+#figure2 {
+    float: right;
+}
+
+section {
+    clear: both;
+}
+
+figcaption {
+    font-weight: bold;
+    font-size: 16px;
+    color: #777;
+    padding: 5px;
+}
